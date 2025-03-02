@@ -1,4 +1,9 @@
-
+ ## project info
+The project is created by team n0. 105 (Asthetic bugs) in srm build 6.0.
+Team member : Pooja Panday
+              Divya Gaur
+              Hrasheekesh kumar singh
+ 
 ## How can I edit this code?
 
 There are several ways of editing your application.
