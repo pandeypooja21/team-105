@@ -1,5 +1,10 @@
  ## project info
+ Code huddle is a platform where a user  can join ,chat and code all together with real time sync and github publish feature.
+ 
 The project is created by team n0. 105 (Asthetic bugs) in srm build 6.0.
+the annual techfest of srm university sonipat,haryana 
+
+# Who created
 Team member : Pooja Panday
               Divya Gaur
               Hrasheekesh kumar singh
